@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_heroes",
+  "info": {
+    "displayName": "hero"
+  },
+  "options": {},
+  "attributes": {
+    "headlineHighlight": {
+      "type": "string"
+    },
+    "headlineDefault": {
+      "type": "string"
+    },
+    "subheadline": {
+      "type": "string"
+    },
+    "ctaLabel": {
+      "type": "string"
+    },
+    "ctaUrl": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

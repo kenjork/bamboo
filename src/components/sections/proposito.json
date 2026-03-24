@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_propositos",
+  "info": {
+    "displayName": "proposito"
+  },
+  "options": {},
+  "attributes": {
+    "eyebrow": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "component": "sections.proposito-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

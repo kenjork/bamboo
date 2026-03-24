@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_sections_testimonial_items",
+  "info": {
+    "displayName": "testimonial-item"
+  },
+  "options": {},
+  "attributes": {
+    "cita": {
+      "type": "text"
+    },
+    "company": {
+      "type": "string"
+    },
+    "companyDescription": {
+      "type": "string"
+    },
+    "contenido": {
+      "type": "text"
+    },
+    "avatar": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

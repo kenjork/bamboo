@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_shared_footers",
+  "info": {
+    "displayName": "footer"
+  },
+  "options": {},
+  "attributes": {
+    "brandTagline": {
+      "type": "text"
+    },
+    "contactEmail": {
+      "type": "email"
+    },
+    "contactPhone": {
+      "type": "string"
+    },
+    "officeAddress": {
+      "type": "text"
+    },
+    "legalInfo": {
+      "type": "text"
+    },
+    "copyright": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

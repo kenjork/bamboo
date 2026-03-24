@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_solucion_items",
+  "info": {
+    "displayName": "solucion-item"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

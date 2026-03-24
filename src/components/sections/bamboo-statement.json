@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_bamboo_statements",
+  "info": {
+    "displayName": "bamboo-statement"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

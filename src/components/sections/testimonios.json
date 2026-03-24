@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_testimonios",
+  "info": {
+    "displayName": "testimonios"
+  },
+  "options": {},
+  "attributes": {
+    "eyebrow": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "component": "sections.testimonial-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

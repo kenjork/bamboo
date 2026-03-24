@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_equipos",
+  "info": {
+    "displayName": "equipo"
+  },
+  "options": {},
+  "attributes": {
+    "eyebrow": {
+      "type": "string"
+    },
+    "miembros": {
+      "type": "component",
+      "component": "sections.miembro",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

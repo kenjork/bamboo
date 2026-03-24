@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_sections_miembros",
+  "info": {
+    "displayName": "miembro"
+  },
+  "options": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "rol": {
+      "type": "string"
+    },
+    "bio": {
+      "type": "text"
+    },
+    "foto": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

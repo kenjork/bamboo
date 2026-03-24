@@ -1,0 +1,35 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_settings",
+  "info": {
+    "singularName": "site-setting",
+    "pluralName": "site-settings",
+    "displayName": "Site Settings"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "nav": {
+      "type": "component",
+      "component": "shared.nav-link",
+      "repeatable": true
+    },
+    "footer": {
+      "type": "component",
+      "component": "shared.footer",
+      "repeatable": true
+    }
+  }
+}

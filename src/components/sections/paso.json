@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_pasos",
+  "info": {
+    "displayName": "como-trabajamos-item"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

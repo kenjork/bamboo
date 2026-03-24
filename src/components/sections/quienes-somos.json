@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sections_quienes_somos",
+  "info": {
+    "displayName": "quienes-somos"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "bodyHighlight": {
+      "type": "string"
+    },
+    "bodyDefault": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

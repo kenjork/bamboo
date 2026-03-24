@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_sections_soluciones",
+  "info": {
+    "displayName": "soluciones"
+  },
+  "options": {},
+  "attributes": {
+    "eyebrow": {
+      "type": "string"
+    },
+    "titulo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "text"
+    },
+    "items": {
+      "type": "component",
+      "component": "sections.solucion-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

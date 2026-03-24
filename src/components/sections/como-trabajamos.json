@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_como_trabajamos",
+  "info": {
+    "displayName": "como-trabajamos"
+  },
+  "options": {},
+  "attributes": {
+    "eyebrow": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "component": "sections.paso",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
